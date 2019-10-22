@@ -1,2 +1,2 @@
-# TestTechnolab
+# library
  Test project for Technolab
